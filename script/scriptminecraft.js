@@ -3,7 +3,7 @@ var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "http://bin.shortbin.eu:8080/raw/zvBq42Sxic" 
+words[1] = "https://ckk.ai/zpzQ2HAOJ" 
 words[2] = "" 
 words[3] = "" 
 words[4] = "" 
