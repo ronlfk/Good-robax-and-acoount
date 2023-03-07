@@ -3,16 +3,16 @@ var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "https://ckk.ai/06icgs" 
-words[2] = "https://ckk.ai/0fY5iv" 
-words[3] = "https://ckk.ai/1h49p39" 
-words[4] = "https://ckk.ai/gQ4tgdv8Wb" 
-words[5] = "https://ckk.ai/5WJPn19K9" 
-words[6] = "https://ckk.ai/OTzKwYj" 
-words[7] = "https://ckk.ai/Sl88YPkwf" 
-words[8] = "https://ckk.ai/bReJSGH" 
-words[9] = "https://ckk.ai/ZF8B" 
-words[10] = "https://ckk.ai/bhRwKjyT"  
+words[1] = "" 
+words[2] = "" 
+words[3] = "" 
+words[4] = "" 
+words[5] = "" 
+words[6] = "" 
+words[7] = "" 
+words[8] = "" 
+words[9] = "" 
+words[10] = ""  
 
 function BuildArray(size){
 this.length = size
