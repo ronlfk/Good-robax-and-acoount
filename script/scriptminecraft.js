@@ -3,12 +3,12 @@ var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "" 
-words[2] = "" 
-words[3] = "" 
-words[4] = "" 
-words[5] = "" 
-words[6] = "" 
+words[1] = "https://tii.la/aqaa9TA42tR" 
+words[2] = "https://tii.la/TcWjSh0PXEK" 
+words[3] = "https://tii.la/JzAkpqmC" 
+words[4] = "https://tii.la/zToBAMYwvnJ" 
+words[5] = "https://tii.la/qQfZG9lV" 
+words[6] = "https://tii.la/xw1SzOY" 
 words[7] = "" 
 words[8] = "" 
 words[9] = "" 
