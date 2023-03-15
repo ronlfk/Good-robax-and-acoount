@@ -9,10 +9,10 @@ words[3] = "https://tii.la/JzAkpqmC"
 words[4] = "https://tii.la/zToBAMYwvnJ" 
 words[5] = "https://tii.la/qQfZG9lV" 
 words[6] = "https://tii.la/xw1SzOY" 
-words[7] = "" 
-words[8] = "" 
-words[9] = "" 
-words[10] = "" 
+words[7] = "https://tii.la/MF3G52SNxGA" 
+words[8] = "https://tii.la/iNshg4EDQFk" 
+words[9] = "https://tii.la/PTs643" 
+words[10] = "https://tii.la/hJZdG" 
 
 function BuildArray(size){
 this.length = size
